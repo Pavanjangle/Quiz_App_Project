@@ -74,16 +74,18 @@ h1 {
 }
 
 #score {
-    background-color: #ffffff;
+    background-color: #f3abab;
     height: fit-content;
     border-radius: 5px;
     color: #000000;
-    text-align: center;
-    padding: 2em;
+    /* text-align: center; */
+    padding: 30px;
     position: sticky;
     top: 1em;
     color: #000000;
     text-align: center;
+    height: 100px;
+    width: 100;
 
 
 
@@ -99,5 +101,6 @@ h1 {
     height: 40px;
     width: 100px;
     margin-top: 40px;
+    border-radius: 30px;
 
 }
